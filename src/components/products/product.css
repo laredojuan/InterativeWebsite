@@ -1,0 +1,12 @@
+.snake-link {
+  margin-top: 22px;
+  background-image: url("/public/images/img-10.jpg");
+  font-size: 130px;
+}
+.snake-text {
+  text-indent: 15%;
+  font-size: 30px;
+  position: relative;
+  bottom: 100px;
+  left: 45px;
+}
